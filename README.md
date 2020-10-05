@@ -1,5 +1,5 @@
 # FeedBack-Analysis-
-Used Pandas, WordCloud, nltk.tokenize, matplotlib.pyplot, numpy, seaborn to Extract Feedback given in text form apart from rating.
+Used Pandas, WordCloud, nltk.tokenize, matplotlib.pyplot, numpy and seaborn.
 
 Step 1- 
 Extracted words for quality analysis using WordCloud.
