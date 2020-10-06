@@ -1,4 +1,4 @@
-# FeedBack-Analysis-
+# Analysing Medidation Funnel
 Used Pandas, WordCloud, nltk.tokenize, matplotlib.pyplot, numpy and seaborn.
 
 Step 1- 
